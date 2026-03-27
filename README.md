@@ -40,6 +40,7 @@ From designing neural architectures to deploying scalable web platforms, I love 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Chakra](https://img.shields.io/badge/Chakra UI-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
 **Backend & Cloud**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)

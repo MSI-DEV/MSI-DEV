@@ -1,80 +1,110 @@
-<!-- Header / Greeting -->
 <div align="center">
-  <h1>Hi there, I'm Ikeda Hiroshi 👋</h1>
-  <h3>Full-Stack & AI Developer | Building Scalable Web Applications & Intelligent Systems</h3>
 
+  <img src="https://img.shields.io/badge/Full%20Stack%20%26%20AI%20Developer-%231E3A8A?style=for-the-badge&logo=next.js&logoColor=white" alt="Full Stack & AI Developer" />
+  
+  <h1>Hi, I'm Ikeda Hiroshi 👋</h1>
+  
+  <h3>Building Scalable Web Experiences Powered by AI</h3>
+  
   <p>
-    <strong>7+ years</strong> crafting high-performance web experiences and AI-powered platforms.
+    <strong>7+ years crafting high-performance applications</strong> that turn ideas into reality — fast.<br>
+    Passionate about clean code, intelligent systems, and delivering exceptional user experiences.
   </p>
 
-  <!-- Social / Contact Badges -->
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
+
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate **Full-Stack & AI Developer** with over **7 years of experience** building scalable, high-performance web applications. 
+I'm an experienced **Full-Stack & AI Developer** specializing in modern web architectures and intelligent systems. 
 
-I specialize in modern web architectures with **Next.js** and **Nuxt.js**, combined with AI/ML integration to deliver impactful, user-centric features. I'm deeply focused on code quality, automated testing, performance optimization, and troubleshooting complex systems.
+With a strong focus on **scalability**, **performance**, and **code quality**, I build applications that don't just work — they delight users and drive results. 
 
-I thrive in remote, collaborative environments and enjoy turning ideas into production-ready solutions that enhance user experience.
+I thrive in remote, collaborative environments and love turning complex challenges into elegant, maintainable solutions.
 
-### 💼 Professional Experience
+- 🌐 **Frontend & Backend Mastery**: Next.js, Nuxt.js, and beyond
+- 🤖 **AI Integration**: From infrastructure to intelligent features
+- ⚡ **Philosophy**: Write once, scale forever. Test everything. Ship impactful features.
+
+---
+
+### 💼 Professional Journey
 
 **AI Senior Engineer**  
-**Scalify AI Co.** — United States  
-*2022 – 2025*
+**Scalify.ai** — United States | 2022 – 2025  
 
-- Contributed significantly to the core server infrastructure of the world's first AI platform for ordering professional custom websites in under 10 minutes.
-- Designed and optimized scalable backend systems powering rapid AI-driven website generation.
+Played a key role in building the core server infrastructure for the **world's first AI platform** that lets users order professional custom websites in under 10 minutes.  
+Helped architect scalable systems powering rapid AI-driven website generation.
 
-**Full-Stack & AI Engineer (Junior)**  
-**Story AI Co.** — Japan  
-*2020 – 2022*
+**Full-Stack & AI Engineer**  
+**Story.AI** — Japan | 2020 – 2022  
 
-- Developed a scalable server architecture for an AI-driven storytelling platform.
-- Integrated full-stack components with AI features to enhance content generation and user engagement.
+Contributed to the development of a robust, scalable backend for an innovative AI-powered storytelling platform, blending full-stack development with AI capabilities.
 
 **Full-Stack Developer Intern**  
-**SmartHR** — Japan  
-*2018 – 2020*
+**SmartHR** — Japan | 2018 – 2020  
 
-- Delivered web solutions that improved client operations and overall user experience.
-- Built and maintained robust full-stack applications.
+Delivered web solutions that streamlined client operations and significantly improved user experience.
 
-### 🛠️ Tech Stack & Skills
+---
 
-**Frontend**  
-Next.js • Nuxt.js • React • Vue • TypeScript • Tailwind CSS • Modern Web Architectures
+### 🛠️ Tech Stack
 
-**Backend & AI**  
-Node.js • Python • AI/ML Integration • Scalable Server Infrastructure • REST/GraphQL APIs
+<div align="center">
 
-**Tools & Practices**  
-Test Automation • CI/CD • Performance Optimization • Troubleshooting • Git • Docker • Cloud Services
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- You can enhance this with dynamic skill icons (highly recommended) -->
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,react,vue,ts,nodejs,python,tailwind,git,docker" alt="Skills"/>
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**And more**: AI/ML tools, test automation frameworks, CI/CD, modern web architectures...
+
+</div>
+
+---
+
+### ✨ What I Bring to the Table
+
+- **High-performance web apps** with modern frameworks (Next.js / Nuxt.js)
+- **AI-powered features** and scalable server infrastructure
+- **Strong emphasis** on automated testing, code quality, and troubleshooting
+- Experience delivering features that genuinely enhance user experience
+- Proven ability to collaborate effectively in diverse, remote teams
+
+---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Streak Stats"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-### 🌟 Featured Projects
+---
 
-<!-- Pin
+### 🌟 Let's Build Something Amazing Together
+
+Open to **freelance opportunities**, **collaborations**, or **full-time roles** where I can contribute to innovative AI + web projects.
+
+Feel free to reach out — I'm always excited to discuss new ideas!
+
+---
+
+<div align="center">
+  <i>Made with ❤️ and a lot of AI-powered coffee ☕</i>
+</div>

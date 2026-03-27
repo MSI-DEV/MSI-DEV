@@ -1,110 +1,112 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Full%20Stack%20%26%20AI%20Developer-%231E3A8A?style=for-the-badge&logo=next.js&logoColor=white" alt="Full Stack & AI Developer" />
-  
-  <h1>Hi, I'm Ikeda Hiroshi 👋</h1>
-  
-  <h3>Building Scalable Web Experiences Powered by AI</h3>
-  
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=280&section=header&text=Ikeda%20Hiroshi&fontSize=70&fontAlignY=35&animation=fadeIn" alt="Header Banner" width="100%"/>
+
+  <h1>Hi there! 👋 I'm <span style="color:#00d4ff">Ikeda Hiroshi</span></h1>
+
+  <h3>🚀 Full-Stack & AI Developer | 7+ Years Crafting Scalable Digital Experiences</h3>
+
   <p>
-    <strong>7+ years crafting high-performance applications</strong> that turn ideas into reality — fast.<br>
-    Passionate about clean code, intelligent systems, and delivering exceptional user experiences.
+    <strong>Building high-performance web applications</strong> with modern architectures, intelligent AI features, and pixel-perfect user experiences.
   </p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
+  <!-- Social & Contact Badges -->
+  <p>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/yourhandle" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://yourportfolio.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
 
-</div>
+  <!-- Tech Stack -->
+  <h2>🛠️ Tech Stack</h2>
 
----
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  </p>
 
-### 🚀 About Me
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  </p>
 
-I'm an experienced **Full-Stack & AI Developer** specializing in modern web architectures and intelligent systems. 
+  <!-- About Me -->
+  <h2>💡 About Me</h2>
 
-With a strong focus on **scalability**, **performance**, and **code quality**, I build applications that don't just work — they delight users and drive results. 
+  <p>
+    I'm a passionate <strong>Full-Stack & AI Developer</strong> with over <strong>7 years</strong> of experience building <strong>scalable, high-performance web applications</strong> that solve real problems and delight users.
+  </p>
 
-I thrive in remote, collaborative environments and love turning complex challenges into elegant, maintainable solutions.
+  <p>
+    I specialize in modern frontend frameworks like <strong>Next.js</strong> and <strong>Nuxt.js</strong>, combined with robust backend architectures and intelligent AI integrations. 
+    My focus is on clean, maintainable code, comprehensive test automation, and rapid troubleshooting to deliver features that truly matter.
+  </p>
 
-- 🌐 **Frontend & Backend Mastery**: Next.js, Nuxt.js, and beyond
-- 🤖 **AI Integration**: From infrastructure to intelligent features
-- ⚡ **Philosophy**: Write once, scale forever. Test everything. Ship impactful features.
+  <p>
+    Whether working remotely with diverse international teams or leading complex projects, I thrive on turning ideas into impactful digital products.
+  </p>
 
----
+  <!-- What I Bring -->
+  <h2>✨ What I Bring to the Table</h2>
 
-### 💼 Professional Journey
+  <ul align="left">
+    <li>✅ Expert-level proficiency in <strong>Next.js, Nuxt.js</strong>, and full modern web stacks</li>
+    <li>✅ Deep experience integrating <strong>AI/ML</strong> features into production applications</li>
+    <li>✅ Strong emphasis on <strong>code quality, automated testing, and performance optimization</strong></li>
+    <li>✅ Proven ability to collaborate effectively in remote, cross-functional environments</li>
+    <li>✅ Passion for crafting seamless user experiences that drive engagement and results</li>
+  </ul>
 
-**AI Senior Engineer**  
-**Scalify.ai** — United States | 2022 – 2025  
+  <!-- GitHub Stats -->
+  <h2>📊 GitHub Stats</h2>
 
-Played a key role in building the core server infrastructure for the **world's first AI platform** that lets users order professional custom websites in under 10 minutes.  
-Helped architect scalable systems powering rapid AI-driven website generation.
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180"/>
+  </p>
 
-**Full-Stack & AI Engineer**  
-**Story.AI** — Japan | 2020 – 2022  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </p>
 
-Contributed to the development of a robust, scalable backend for an innovative AI-powered storytelling platform, blending full-stack development with AI capabilities.
+  <!-- Featured Projects -->
+  <h2>🚀 Featured Projects</h2>
 
-**Full-Stack Developer Intern**  
-**SmartHR** — Japan | 2018 – 2020  
+  <p>Check out some of my recent work below (pin your best repositories on GitHub to showcase them here automatically).</p>
 
-Delivered web solutions that streamlined client operations and significantly improved user experience.
+  <!-- Call to Action -->
+  <h2>🤝 Let's Build Something Amazing Together</h2>
 
----
+  <p>
+    I'm always open to exciting opportunities, collaborations, or interesting projects involving modern web development and AI.
+  </p>
 
-### 🛠️ Tech Stack
+  <p>
+    <strong>Feel free to reach out</strong> — whether you're a startup looking for a reliable developer or a team needing AI-enhanced solutions.
+  </p>
 
-<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Get_In_Touch-00d4ff?style=for-the-badge&logo=mail.ru&logoColor=black" alt="Get In Touch"/>
+  </a>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <br/><br/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  <p>Made with ❤️ and lots of ☕</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**And more**: AI/ML tools, test automation frameworks, CI/CD, modern web architectures...
-
-</div>
-
----
-
-### ✨ What I Bring to the Table
-
-- **High-performance web apps** with modern frameworks (Next.js / Nuxt.js)
-- **AI-powered features** and scalable server infrastructure
-- **Strong emphasis** on automated testing, code quality, and troubleshooting
-- Experience delivering features that genuinely enhance user experience
-- Proven ability to collaborate effectively in diverse, remote teams
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🌟 Let's Build Something Amazing Together
-
-Open to **freelance opportunities**, **collaborations**, or **full-time roles** where I can contribute to innovative AI + web projects.
-
-Feel free to reach out — I'm always excited to discuss new ideas!
-
----
-
-<div align="center">
-  <i>Made with ❤️ and a lot of AI-powered coffee ☕</i>
 </div>

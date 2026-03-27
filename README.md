@@ -86,10 +86,7 @@ Whether you're a startup looking for an AI prototype or an enterprise needing ro
 
 <div align="center">
 
-**Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)
+Connect with me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikedahiroshi1201@gmail.com)
 
 </div>

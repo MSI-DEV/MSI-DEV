@@ -17,17 +17,6 @@
     Turning complex problems into elegant, scalable AI-powered solutions.
   </p>
 
-  <!-- Eye-catching badges -->
-  <p>
-    <img src="https://img.shields.io/badge/AI%20%26%20ML-Expert-0A66C2?style=for-the-badge&logo=python&logoColor=white" alt="AI Expert">
-    <img src="https://img.shields.io/badge/Full%20Stack-Architect-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack">
-    <img src="https://img.shields.io/badge/7%20Years%20Exp.-Delivering%20Impact-4CAF50?style=for-the-badge" alt="Experience">
-  </p>
-
-  <a href="https://github.com/IkedaHiroshi">
-    <img src="https://img.shields.io/github/followers/IkedaHiroshi?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-
 </div>
 
 ---

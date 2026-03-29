@@ -9,7 +9,7 @@
 <grok-card data-id="469fcd" data-type="image_card" data-plain-type="render_searched_image"  data-arg-image_id="gWCK4"  data-arg-size="LARGE" ></grok-card>
 
 
-  <h1>Hi, I'm <strong>Ikeda Hiroshi</strong> 👋</h1>
+  <h1>Hi, I'm <strong>Murayama Genji</strong> 👋</h1>
   <h3>Full-Stack AI Engineer | 7+ Years Crafting Intelligent Systems</h3>
 
   <p>
@@ -86,7 +86,7 @@ Whether you're a startup looking for an AI prototype or an enterprise needing ro
 
 <div align="center">
 
-Connect with me: ikedahiroshi1201@gmail.com
+Connect with me: murayamagenji394@gmail.com
 
 </div>
 
@@ -94,5 +94,5 @@ Connect with me: ikedahiroshi1201@gmail.com
 
 <div align="center">
   <i>Made with passion for code and intelligence ✨</i><br>
-  <strong>Ikeda Hiroshi</strong> — Full-Stack AI Engineer
+  <strong>Murayaam Genji</strong> — Full-Stack AI Engineer
 </div>
